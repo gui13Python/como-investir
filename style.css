@@ -385,6 +385,67 @@ text-decoration:none;
 font-size:14px;
 background-color: #ffd700;
 }
+.depoimentos-curso{
+margin-top:40px;
+padding:25px;
+background:#f7f7f7;
+border-radius:8px;
+}
+
+.depoimentos-curso h3{
+margin-bottom:20px;
+color:#222;
+}
+
+.depoimento{
+background:white;
+padding:15px;
+border-radius:6px;
+margin-bottom:15px;
+border-left:4px solid #2c7be5;
+}
+
+.depoimento p{
+font-style:italic;
+margin-bottom:8px;
+}
+
+.depoimento span{
+font-size:13px;
+color:#666;
+}
+
+.nota-afiliado strong{
+font-size:10px;
+color:#f10707;
+margin-top:10px;
+}
+.nota-afiliado {
+font-size:10px;
+color:#666464;
+margin-top:10px;
+
+}
+.botao-afiliado{
+display:inline-block;
+background:#2c7be5;
+color:white;
+padding:14px 24px;
+font-size:16px;
+font-weight:bold;
+text-decoration:none;
+border-radius:6px;
+margin-top:15px;
+transition:0.3s;
+}
+
+.botao-afiliado:hover{
+background:#1a5bb8;
+transform:scale(1.05);
+}
+
+
+
 
 
 /* ============================= */
